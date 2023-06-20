@@ -1,2 +1,1 @@
-# Tell-a-secret
-Share secrets anonymously with authorization/encryption.
+Secrets sharing App with authorization and encryption.
